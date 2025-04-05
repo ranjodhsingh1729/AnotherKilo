@@ -1,4 +1,4 @@
-# Just Following Along [Kilo](https://viewsourcecode.org/snaptoken/kilo/)
+# An Attempt To Extend The [Kilo](https://viewsourcecode.org/snaptoken/kilo/) Text Editor
 
 Status: Editor Completed (Chapter 5)
 
